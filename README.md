@@ -1,9 +1,9 @@
 
 
 **A lover of technology and films®**  
-🌍 Living in Fortaleza, Brazil  
-🎂 JAAAAMES BAAAAXTER - 21 years old  
-💻 Typescript and Java programmer, always studying new technologies  
++ Living in Fortaleza, Brazil  
+- 21 years old  
+! Typescript and Java programmer, always studying new technologies  
 
 ---
 
@@ -23,4 +23,4 @@
 - JavaScript, React, DevOps  
 - Fullstack development  
 - Learning and experimenting with new techs
-- -
+  
