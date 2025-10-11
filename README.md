@@ -27,7 +27,6 @@
 - Learning and experimenting with new techs
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndersonFreitasF&theme=dark&hide_border=true&width=400)
 
 
