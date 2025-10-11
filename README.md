@@ -29,6 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
 </p>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=AndersonFreitasF&theme=dracula)
 
 
