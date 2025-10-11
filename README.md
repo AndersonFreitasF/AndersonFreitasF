@@ -31,8 +31,9 @@
 </p>
 
 <p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=AndersonFreitasF&theme=dracula)
+  <img src="https://github-profile-trophy.vercel.app/?username=AndersonFreitasF&theme=dracula" alt="Trophies" />
 </p>
+
 
 
 
