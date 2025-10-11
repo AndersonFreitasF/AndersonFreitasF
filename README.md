@@ -1,12 +1,13 @@
 
 
 **A lover of technology and films®**  
-<p>🌍 <span style="color:#1E90FF;">Living in Fortaleza, Brazil</span></p>
-<p>🎂 <span style="color:#FF4500;">21 years old</span></p>
-<p>💻 <span style="color:#32CD32;">Typescript and Java programmer, always studying new technologies</span></p>
+<p> <span style="color:#1E90FF;">Living in Fortaleza, Brazil</span></p>
+<p> <span style="color:#FF4500;">21 years old</span></p>
+<p><span style="color:#32CD32;">Typescript and Java programmer, always studying new technologies</span></p>
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies and Tools
+
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +18,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-# 🌱 Interesses
+# 🌱 Interests
 
 - JavaScript, React, DevOps  
 - Fullstack development  
