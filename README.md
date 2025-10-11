@@ -1,10 +1,9 @@
 
 
 **A lover of technology and films®**  
-+ Living in Fortaleza, Brazil  
-- 21 years old  
-! Typescript and Java programmer, always studying new technologies  
-
+<p>🌍 <span style="color:#1E90FF;">Living in Fortaleza, Brazil</span></p>
+<p>🎂 <span style="color:#FF4500;">21 years old</span></p>
+<p>💻 <span style="color:#32CD32;">Typescript and Java programmer, always studying new technologies</span></p>
 ---
 
 ## 🔧 Tecnologias e Ferramentas
