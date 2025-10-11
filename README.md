@@ -26,5 +26,5 @@
 - Fullstack development  
 - Learning and experimenting with new techs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonFreitasF)](https://github.com/AndersonFreitasF/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent)
 
