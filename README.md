@@ -4,7 +4,6 @@
 ```diff
 
 + Living in Fortaleza, Brazil
-
 + 21 years old
 ! 💻 Typescript and Java programmer, always studying new technologies
 ```
