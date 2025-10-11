@@ -31,7 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndersonFreitasF&theme=dracula" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaosilva&theme=dark
+" />
 </p>
 
 
