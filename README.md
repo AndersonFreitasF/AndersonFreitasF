@@ -26,9 +26,15 @@
 - Fullstack development  
 - Learning and experimenting with new techs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent&commits_year=2025&count_private=true" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=AndersonFreitasF&theme=transparent" />
+  </a>
+</div>
+
 
 
 
