@@ -30,7 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
 </p>
 
-[![CI](https://github.com/AndersonFreitasF/AndersonFreitasF/actions/workflows/blank.yml/badge.svg)](https://github.com/AndersonFreitasF/AndersonFreitasF/actions/workflows/blank.yml)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/streak?user=AndersonFreitasF&theme=dark)
+
 
 
 
