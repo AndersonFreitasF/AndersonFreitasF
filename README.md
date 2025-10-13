@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonFreitasF&theme=dark" alt="GitHub Streak"/>
 </p>
