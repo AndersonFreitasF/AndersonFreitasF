@@ -30,10 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AndersonFreitasF&theme=dark
-" alt="GitHub Streak"/>
-</p>
+[![CI](https://github.com/AndersonFreitasF/AndersonFreitasF/actions/workflows/blank.yml/badge.svg)](https://github.com/AndersonFreitasF/AndersonFreitasF/actions/workflows/blank.yml)
+
 
 
 
