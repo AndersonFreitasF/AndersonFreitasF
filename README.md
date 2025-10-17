@@ -27,8 +27,13 @@
 - Learning and experimenting with new techs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=transparent&commits_year=2025&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <a href="https://github.com/AndersonFreitasF">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonFreitasF&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonFreitasF&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFreitasF&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </p>
+
 
 
 
