@@ -38,7 +38,7 @@
 
 # 🌱 Interests
 
-- JavaScript, React, DevOps  
+- JavaScript, React, DevOps, linux 
 - Fullstack development  
 - Learning and experimenting with new techs
 
